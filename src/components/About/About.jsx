@@ -1,6 +1,7 @@
 import React from "react";
 import "./About.css";
 
+
 const About = () => {
   return (
     // <div className="t-wrapper blur t-blur1" id="about" style={{ background: "var(--purple)" }}>

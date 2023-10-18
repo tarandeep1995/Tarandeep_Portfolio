@@ -8,6 +8,7 @@ import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import Resume from './Resume.pdf';
 
+
 const Project = () => {
   // context
   const theme = useContext(themeContext);
